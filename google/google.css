@@ -1,0 +1,57 @@
+.containe{
+background-color: #eee;
+text-align: center;
+width: 1300px;
+height: 75px;
+margin-top: 5px;
+margin-left: 100px;
+
+}
+.contain{
+margin-left: 580px;
+width: 351;
+height: 113;
+}
+.cont{
+    background-color:#7EE5DA;
+    width:37%;
+    height: 74;
+    margin-left: 100px; 
+    text-align: center;
+    margin-top: 3px;
+    padding-top: 7px;
+  
+}
+.con{
+    background-color:#70CCC2 ;
+    width: 200;
+    height: 74;
+  margin-left: 100px;
+  margin-top: 10px;
+
+}
+.box{
+width: 60%;
+background-color: #7EE5DA;
+text-align: center;
+}
+.box2{
+  width:40% ;
+  background-color: #70CCC2;
+  text-align: center;
+  font-size: -1;
+
+  
+}
+.box3{
+ 
+ 
+  text-align: center;
+  background-color: rgb(81, 154, 130);
+  font-size: -1;
+ 
+}
+.table{
+  margin-top: 15px;
+  
+}
